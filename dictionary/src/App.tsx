@@ -73,11 +73,6 @@ const initEdges = [
     target: '6',
   },
   {
-    id: '1-2',
-    source: '1',
-    target: '2',
-  },
-  {
     id: '2-6',
     source: '2',
     target: '6',
