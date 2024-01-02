@@ -1,0 +1,9 @@
+services:
+  backend:
+    build: d-back
+    ports:
+      - "3001:3001"
+  frontend:
+    build: dictionary
+    ports:
+      - "3000:3000"
